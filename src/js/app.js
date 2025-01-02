@@ -1,4 +1,4 @@
-import checkHealth from './check';
+// import checkHealth from './check';
 
-console.log('worked');
-console.log(checkHealth({ name: 'Маг', health: 90 }));
+// // console.log('worked');
+// console.log(checkHealth({ name: 'Маг', health: 90 }));
